@@ -1,7 +1,9 @@
-Web tools for after usage 
+Tools when I wrote or utilized depend on my specific needs . 
 
-Mail Script for python 
-Multilang features 
-E-Commerce Scripts 
-Escape Scripts
+
+These scripts are written for testing purposes. The person using them for attacking purposes will take full responsibility.
+
+
+Bash profile credit : Nahamsec 
+
 
